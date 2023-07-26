@@ -1,0 +1,2 @@
+github.com test
+git clone git@github.com:kwiyoung/mygit.git <- ssh clone
